@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">gta</string>
+    <string name="facebook_app_id">4063036610420089</string>
+    <string name="fb_login_protocol_scheme">fb4063036610420089</string>
+</resources>

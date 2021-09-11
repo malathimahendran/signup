@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "652051068384",
+    "project_id": "cviacappparampara",
+    "storage_bucket": "cviacappparampara.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652051068384:android:aeb18fbbe1908db322a785",
+        "android_client_info": {
+          "package_name": "com.cviac.apps.mobile.parampara"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652051068384-q5cemmgc50rbd4tb5lgqp242s2gaf2t1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cviac.apps.mobile.parampara",
+            "certificate_hash": "6e7b0cf7f2964f0ab02e4e70622c42576d745132"
+          }
+        },
+        {
+          "client_id": "652051068384-vup40h67hj7j1f1iurnpin9fu0gu9b2v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgkYonH3C3cmf5SD3tLkvHNTpnTkoaIMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652051068384-vup40h67hj7j1f1iurnpin9fu0gu9b2v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
